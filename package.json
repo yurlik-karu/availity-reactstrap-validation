@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "@types/availity-reactstrap-validation@1.0.0",
+      "D:\\DotNetCore\\Source\\EDW.CrewPage.WebApi"
+    ]
+  ],
+  "_from": "@types/availity-reactstrap-validation@1.0.0",
+  "_id": "@types/availity-reactstrap-validation@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-0EV4Mb+j/z5XdlzVAz2rB0KuDwj6sNv3d/JtELtxmLkMyUwZXH2XMal2Ic7f5y0+SBc5qf650WdXT/zFlsCFTw==",
+  "_location": "/@types/availity-reactstrap-validation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/availity-reactstrap-validation@1.0.0",
+    "name": "@types/availity-reactstrap-validation",
+    "escapedName": "@types%2favaility-reactstrap-validation",
+    "scope": "@types",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "",
+  "_spec": "1.0.0",
+  "_where": "D:\\DotNetCore\\Source\\EDW.CrewPage.WebApi",
+  "contributors": [
+    {
+      "name": "Ali Hammad Baig",
+      "url": "https://github.com/alihammad"
+    },
+    {
+      "name": "Marco Falkenberg",
+      "url": "https://github.com/mfal"
+    },
+    {
+      "name": "Danilo Barros",
+      "url": "https://github.com/danilobjr"
+    },
+    {
+      "name": "Fábio Paiva",
+      "url": "https://github.com/fabiopaiva"
+    }
+  ],
+  "dependencies": {
+    "@types/tether": "*"
+  },
+  "description": "TypeScript definitions for availity-reactstrap-validation",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/availity-reactstrap-validation",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "typesPublisherContentHash": "64d3c7ff5e0bde48bccf1740bc26f708d7e56f4e8486ec78bcfe084c4308f899",
+  "version": "1.0.0"
+}
